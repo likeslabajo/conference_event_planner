@@ -47,7 +47,7 @@
     
   }
   .venue_main .text {
-    font-size: 30px;
+    font-size: 20px;
     color: #333;
   }
   .quantity-value {
@@ -265,7 +265,8 @@
   }
   .nav_links{
     display: flex;
-    gap: 170px;
+    gap: 100px;
+    align-items: center;
   }
   .left_navbar{
     width: 60vw;
